@@ -14,7 +14,7 @@ fs.readFile('captions.vtt', 'utf8', function (err, fileContents) {
     this.captionContents = replaceall("<", "wg", fileContents);
      //fileContents.replaceAll('<','g'); //'<[^>]+>';
     fs.writeFile('output.txt', this.captionContents, function (err) {
-            if (err) throw err;
+            if (err) throw err; 
         })
         //console.log(fileContents)
 });
