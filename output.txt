@@ -8,342 +8,342 @@ Style:
  }
 ##
 
-00:00:00.000 --> 00:00:02.850 align:start position:19%
-havewg00:00:00.240>wgc> youwg/c>wg00:00:00.359>wgc> everwg/c>wg00:00:00.630>wgc> wantedwg/c>wg00:00:01.020>wgc> towg/c>wg00:00:01.110>wgc> knowwg/c>wg00:00:01.230>wgc> whatwg/c>wg00:00:01.469>wgc> itwg/c>
+   
+have you ever wanted to know what it
 
-00:00:01.530 --> 00:00:04.589 align:start position:19%
-feelswg00:00:01.709>wgc> likewg/c>wg00:00:01.920>wgc> towg/c>wg00:00:02.159>wgc> havewg/c>wg00:00:02.310>wgc> yourwg/c>wg00:00:02.429>wgc> bottomwg/c>
+   
+feels like to have your bottom
 
-00:00:02.850 --> 00:00:06.629 align:start position:19%
-penetratedwg00:00:03.480>wgc> bywg/c>wg00:00:03.600>wgc> thewg/c>wgc.colorE5E5E5>wg00:00:03.750>wgc> pointedwg/c>wg00:00:04.200>wgc> bonywg/c>wg/c>
+   
+penetrated by the pointed bony
 
-00:00:04.589 --> 00:00:08.010 align:start position:19%
-wgc.colorCCCCCC>projectionswg00:00:04.830>wgc> ofwg/c>wg00:00:05.250>wgc> awg/c>wg00:00:05.339>wgc> mythicalwg/c>wg00:00:05.640>wgc> animalwg/c>wg00:00:06.089>wgc> ofwg/c>wg/c>
+   
+projections of a mythical animal of
 
-00:00:06.629 --> 00:00:10.110 align:start position:19%
-coursewg00:00:07.080>wgc> youwg/c>wg00:00:07.290>wgc> dowg/c>
+   
+course you do
 
-00:00:08.010 --> 00:00:12.330 align:start position:19%
-thiswg00:00:08.220>wgc> iswg/c>wgc.colorCCCCCC>wg00:00:08.429>wgc> maxwg/c>wg00:00:08.849>wgc> chameleonwg/c>wg/c>wgc.colorE5E5E5>wg00:00:09.389>wgc> andwg/c>wg00:00:09.660>wgc> thiswg/c>wg00:00:09.840>wgc> iswg/c>wg00:00:09.990>wgc> littlewg/c>wg/c>
+   
+this is max chameleon and this is little
 
-00:00:10.110 --> 00:00:15.450 align:start position:19%
-wgc.colorE5E5E5>chameleonwg/c>wgc.colorCCCCCC>wg00:00:10.530>wgc> welcomewg/c>wg00:00:11.340>wgc> towg/c>wg/c>wgc.colorE5E5E5>wg00:00:11.460>wgc> thewg/c>wg00:00:11.580>wgc> firstwg/c>wg00:00:11.940>wgc> audiowg/c>wg/c>
+   
+chameleon welcome to the first audio
 
-00:00:12.330 --> 00:00:16.980 align:start position:19%
-reviewwg00:00:12.570>wgc> forwg/c>wgc.colorCCCCCC>wg00:00:13.200>wgc> carnalwg/c>wg/c>wgc.colorE5E5E5>wg00:00:13.559>wgc> chameleonwg/c>wg00:00:14.099>wgc> withwg/c>wg/c>wgc.colorCCCCCC>wg00:00:14.309>wgc> yawg/c>wg/c>
+   
+review for carnal chameleon with ya
 
-00:00:15.450 --> 00:00:19.020 align:start position:19%
-sowg00:00:15.509>wgc> we'rewg/c>wgc.colorE5E5E5>wg00:00:15.690>wgc> goingwg/c>wg/c>wgc.colorCCCCCC>wg00:00:15.809>wgc> towg/c>wg00:00:15.929>wgc> trywg/c>wg00:00:16.080>wgc> thiswg/c>wg00:00:16.289>wgc> it'swg/c>wg00:00:16.710>wgc> awg/c>wg00:00:16.770>wgc> littlewg/c>wg/c>
+   
+so we're going to try this it's a little
 
-00:00:16.980 --> 00:00:21.750 align:start position:19%
-bitwg00:00:17.130>wgc> differentwg/c>wgc.colorCCCCCC>wg00:00:17.730>wgc> I'mwg/c>wg00:00:18.300>wgc> gettingwg/c>wg00:00:18.570>wgc> sickwg/c>wg/c>wgc.colorE5E5E5>wg00:00:18.750>wgc> andwg/c>wg00:00:18.900>wgc> tiredwg/c>wg/c>
+   
+bit different I'm getting sick and tired
 
-00:00:19.020 --> 00:00:25.439 align:start position:19%
-wgc.colorE5E5E5>ofwg00:00:19.289>wgc> writingwg/c>wg/c>wgc.colorCCCCCC>wg00:00:19.560>wgc> andwg/c>wg/c>wgc.colorE5E5E5>wg00:00:20.580>wgc> that'swg/c>wg00:00:20.820>wgc> coolwg/c>wg/c>wgc.colorCCCCCC>wg00:00:21.060>wgc> i'llwg/c>wg00:00:21.180>wgc> stillwg/c>wg00:00:21.539>wgc> bewg/c>wg/c>
+   
+of writing and that's cool i'll still be
 
-00:00:21.750 --> 00:00:27.840 align:start position:19%
-doingwg00:00:21.900>wgc> somewg/c>wg00:00:22.260>wgc> writtenwg/c>wg00:00:22.680>wgc> thingswg/c>wg00:00:22.890>wgc> onwg/c>wg00:00:23.670>wgc> thewg/c>wgc.colorCCCCCC>wg00:00:24.869>wgc> websitewg/c>wg/c>
+   
+doing some written things on the website
 
-00:00:25.439 --> 00:00:29.400 align:start position:19%
-youwg00:00:25.560>wgc> knowwg/c>wg00:00:25.680>wgc> forwg/c>wgc.colorE5E5E5>wg00:00:25.890>wgc> thewg/c>wg00:00:25.949>wgc> specialwg/c>wg00:00:27.060>wgc> subjectswg/c>wg00:00:27.750>wgc> thatwg/c>wg/c>
+   
+you know for the special subjects that
 
-00:00:27.840 --> 00:00:31.920 align:start position:19%
-sortwg00:00:28.109>wgc> ofwg/c>wg00:00:28.140>wgc> thingwg/c>wg00:00:28.199>wgc> butwg/c>wgc.colorE5E5E5>wg00:00:28.470>wgc> Iwg/c>wg/c>wgc.colorCCCCCC>wg00:00:28.560>wgc> figuredwg/c>wg00:00:28.890>wgc> wewg/c>wg00:00:28.980>wgc> trywg/c>wg/c>wgc.colorE5E5E5>wg00:00:29.189>wgc> towg/c>wg/c>
+   
+sort of thing but I figured we try to
 
-00:00:29.400 --> 00:00:34.290 align:start position:19%
-wgc.colorCCCCCC>reviewswg00:00:29.849>wgc> awg/c>wg00:00:30.240>wgc> lotwg/c>wg00:00:30.300>wgc> morewg/c>wg00:00:30.599>wgc> funwg/c>wg00:00:30.810>wgc> andwg/c>wg00:00:31.619>wgc> thewg/c>wg00:00:31.710>wgc> willwg/c>wg00:00:31.890>wgc> ofwg/c>wg/c>
+   
+reviews a lot more fun and the will of
 
-00:00:31.920 --> 00:00:36.420 align:start position:19%
-coursewg00:00:32.160>wgc> bewg/c>wgc.colorE5E5E5>wg00:00:32.369>wgc> transcriptswg/c>wg00:00:33.600>wgc> availablewg/c>wg00:00:33.719>wgc> onwg/c>wg00:00:34.200>wgc> thewg/c>wg/c>
+   
+course be transcripts available on the
 
-00:00:34.290 --> 00:00:38.670 align:start position:19%
-websitewg00:00:34.590>wgc> sowg/c>wg00:00:34.950>wgc> thatwg/c>wg00:00:35.100>wgc> youwg/c>wg00:00:35.460>wgc> knowwg/c>wg00:00:35.579>wgc> ifwg/c>wg00:00:35.910>wgc> youwg/c>wgc.colorE5E5E5>wg00:00:36.120>wgc> likewg/c>wg/c>
+   
+website so that you know if you like
 
-00:00:36.420 --> 00:00:40.079 align:start position:19%
-readingwg00:00:36.719>wgc> stuffwg/c>wg00:00:37.050>wgc> thatwg/c>wg00:00:37.230>wgc> willwg/c>wg00:00:37.410>wgc> bewg/c>wg00:00:37.649>wgc> therewg/c>wgc.colorCCCCCC>wg00:00:37.860>wgc> thiswg/c>wg/c>
+   
+reading stuff that will be there this
 
-00:00:38.670 --> 00:00:44.879 align:start position:19%
-wgc.colorE5E5E5>justwg00:00:38.969>wgc> helpswg/c>wg00:00:39.059>wgc> uswg/c>wg00:00:39.329>wgc> staywg/c>wg00:00:39.420>wgc> awg/c>wg00:00:39.570>wgc> littlewg/c>wg00:00:39.719>wgc> bitwg/c>wg00:00:39.840>wgc> morewg/c>wg/c>
+   
+just helps us stay a little bit more
 
-00:00:40.079 --> 00:00:47.910 align:start position:19%
-motivatedwg00:00:40.680>wgc> sowg/c>wgc.colorCCCCCC>wg00:00:41.399>wgc> upwg/c>wg/c>wgc.colorE5E5E5>wg00:00:43.140>wgc> firstwg/c>wg00:00:43.649>wgc> wewg/c>wg00:00:44.129>wgc> havewg/c>wg00:00:44.460>wgc> thewg/c>wg/c>
+   
+motivated so up first we have the
 
-00:00:44.879 --> 00:00:49.500 align:start position:19%
-unicornwg00:00:46.230>wgc> hornwg/c>wg00:00:46.530>wgc> bywg/c>wg00:00:46.680>wgc> splitwg/c>wg00:00:47.070>wgc> peacheswg/c>wg00:00:47.520>wgc> aswg/c>wg00:00:47.700>wgc> youwg/c>
+   
+unicorn horn by split peaches as you
 
-00:00:47.910 --> 00:00:51.870 align:start position:19%
-knowwgc.colorE5E5E5>wg00:00:48.030>wgc> wewg/c>wg/c>wgc.colorCCCCCC>wg00:00:48.329>wgc> hearwg/c>wg00:00:48.510>wgc> carbonwg/c>wg00:00:48.899>wgc> Communitywg/c>wg00:00:49.110>wgc> havewg/c>wg00:00:49.440>wgc> awg/c>wg/c>
+   
+know we hear carbon Community have a
 
-00:00:49.500 --> 00:00:54.210 align:start position:19%
-thingwg00:00:49.739>wgc> forwg/c>wg00:00:49.920>wgc> fantasywg/c>wg00:00:50.399>wgc> toyswg/c>wgc.colorE5E5E5>wg00:00:50.850>wgc> andwg/c>wg00:00:51.420>wgc> ofwg/c>wg00:00:51.539>wgc> coursewg/c>wg/c>
+   
+thing for fantasy toys and of course
 
-00:00:51.870 --> 00:00:56.340 align:start position:19%
-wgc.colorE5E5E5>thiswg00:00:52.020>wgc> toywg/c>wg00:00:52.230>wgc> beingwg/c>wg00:00:52.680>wgc> awg/c>wg00:00:52.739>wgc> unicornwg/c>wg00:00:53.309>wgc> hornwg/c>wg/c>wgc.colorCCCCCC>wg00:00:53.610>wgc> it'swg/c>wg00:00:54.149>wgc> awg/c>wg/c>
+   
+this toy being a unicorn horn it's a
 
-00:00:54.210 --> 00:00:58.859 align:start position:19%
-fantasywg00:00:54.600>wgc> fantasywg/c>wg00:00:55.140>wgc> toywg/c>
+   
+fantasy fantasy toy
 
-00:00:56.340 --> 00:01:00.899 align:start position:19%
-itwg00:00:56.969>wgc> waswg/c>wg00:00:57.149>wgc> alsowg/c>wg00:00:57.480>wgc> awg/c>wg00:00:57.660>wgc> giftwg/c>wg00:00:57.989>wgc> fromwg/c>wg00:00:58.050>wgc> ourwg/c>wg00:00:58.230>wgc> goodwg/c>wg00:00:58.440>wgc> friendwg/c>
+   
+it was also a gift from our good friend
 
-00:00:58.859 --> 00:01:04.140 align:start position:19%
-andwg00:00:58.980>wgc> transsexualswg/c>wgc.colorCCCCCC>wg00:00:59.399>wgc> co-hostwg/c>wg00:01:00.180>wgc> curiouswg/c>wg00:01:00.780>wgc> sowg/c>wg/c>
+   
+and transsexuals co-host curious so
 
-00:01:00.899 --> 00:01:06.689 align:start position:19%
-thankwg00:01:01.170>wgc> youwg/c>wgc.colorE5E5E5>wg00:01:01.440>wgc> thankwg/c>wg00:01:01.859>wgc> youwg/c>wg/c>wgc.colorCCCCCC>wg00:01:01.920>wgc> can'twg/c>wg/c>wgc.colorE5E5E5>wg00:01:02.460>wgc> awg/c>wg00:01:03.629>wgc> lotwg/c>wg00:01:03.899>wgc> ofwg/c>wg00:01:03.989>wgc> funwg/c>wg/c>
+   
+thank you thank you can't a lot of fun
 
-00:01:04.140 --> 00:01:08.939 align:start position:19%
-sowgc.colorE5E5E5>wg00:01:04.500>wgc> what'swg/c>wg00:01:05.489>wgc> goingwg/c>wg/c>wgc.colorCCCCCC>wg00:01:05.610>wgc> towg/c>wg00:01:05.670>wgc> unicornwg/c>wg00:01:05.939>wgc> hornwg/c>wg/c>
+   
+so what's going to unicorn horn
 
-00:01:06.689 --> 00:01:10.409 align:start position:19%
-wellwg00:01:07.080>wgc> youwg/c>wg00:01:07.200>wgc> shouldwg/c>wg00:01:07.350>wgc> bewg/c>wg00:01:07.530>wgc> askingwg/c>wg00:01:07.740>wgc> whatwg/c>wg00:01:08.369>wgc> unicornwg/c>
+   
+well you should be asking what unicorn
 
-00:01:08.939 --> 00:01:13.140 align:start position:19%
-wgc.colorE5E5E5>hornwg00:01:09.240>wgc> iswg/c>wg00:01:09.420>wgc> goingwg/c>wg00:01:09.780>wgc> inwg/c>wg00:01:09.900>wgc> youwg/c>wg/c>
+   
+horn is going in you
 
-00:01:10.409 --> 00:01:15.720 align:start position:19%
-wgc.colorE5E5E5>unicornwg00:01:11.100>wgc> hornwg/c>wg/c>wgc.colorCCCCCC>wg00:01:11.340>wgc> bywg/c>wg00:01:11.460>wgc> slipwg/c>wg/c>wgc.colorE5E5E5>wg00:01:11.820>wgc> peacheswg/c>wg00:01:12.270>wgc> iswg/c>wg00:01:12.510>wgc> madewg/c>wg00:01:12.990>wgc> outwg/c>wg/c>
+   
+unicorn horn by slip peaches is made out
 
-00:01:13.140 --> 00:01:18.600 align:start position:19%
-ofwg00:01:13.200>wgc> platinumwg/c>wgc.colorCCCCCC>wg00:01:13.590>wgc> siliconwg/c>wg00:01:14.310>wgc> versionwg/c>wg00:01:15.090>wgc> thatwg/c>wg00:01:15.210>wgc> wewg/c>wg00:01:15.330>wgc> havewg/c>wg/c>
+   
+of platinum silicon version that we have
 
-00:01:15.720 --> 00:01:20.759 align:start position:19%
-iswg00:01:16.590>wgc> awg/c>wgc.colorCCCCCC>wg00:01:16.740>wgc> sixwg/c>wg00:01:17.130>wgc> inchwg/c>wg00:01:17.340>wgc> versionwg/c>wg/c>wgc.colorE5E5E5>wg00:01:17.640>wgc> butwg/c>wg00:01:17.909>wgc> theywg/c>wg00:01:18.060>wgc> alsowg/c>wg00:01:18.299>wgc> comewg/c>wg/c>
+   
+is a six inch version but they also come
 
-00:01:18.600 --> 00:01:24.210 align:start position:19%
-inwgc.colorCCCCCC>wg00:01:18.659>wgc> eightwg/c>wg00:01:18.960>wgc> inchwg/c>wg00:01:19.170>wgc> inwg/c>wg00:01:19.350>wgc> 11wg/c>wg/c>wgc.colorE5E5E5>wg00:01:19.740>wgc> inchwg/c>wg00:01:19.920>wgc> versionwg/c>wg/c>wgc.colorCCCCCC>wg00:01:20.220>wgc> butwg/c>wg00:01:20.610>wgc> ohwg/c>wg/c>
+   
+in eight inch in 11 inch version but oh
 
-00:01:20.759 --> 00:01:27.420 align:start position:19%
-mywg00:01:21.030>wgc> goodnesswg/c>wg00:01:21.420>wgc> thatwg/c>wg00:01:21.659>wgc> iswg/c>wg00:01:21.780>wgc> reallywg/c>wg00:01:22.500>wgc> bigwg/c>wgc.colorE5E5E5>wg00:01:22.830>wgc> 11wg/c>wg00:01:23.250>wgc> incheswg/c>wg/c>
+   
+my goodness that is really big 11 inches
 
-00:01:24.210 --> 00:01:31.799 align:start position:19%
-wgc.colorE5E5E5>yeahwg/c>wgc.colorCCCCCC>wg00:01:24.900>wgc> iwg/c>wg00:01:25.080>wgc> don'twg/c>wg00:01:25.170>wgc> iwg/c>wg00:01:25.950>wgc> don'twg/c>wg00:01:26.310>wgc> thinkwg/c>wg00:01:26.700>wgc> iwg/c>wg/c>wgc.colorE5E5E5>wg00:01:26.850>wgc> saidwg/c>wg00:01:27.060>wgc> thatwg/c>wg/c>wgc.colorCCCCCC>wg00:01:27.299>wgc> iwg/c>wg/c>
+   
+yeah i don't i don't think i said that i
 
-00:01:27.420 --> 00:01:34.530 align:start position:19%
-wgc.colorE5E5E5>preferwg00:01:28.020>wgc> thewg/c>wg00:01:28.200>wgc> smallwg/c>wg00:01:28.590>wgc> ponywg/c>wg00:01:29.100>wgc> sizedwg/c>wg00:01:29.820>wgc> thewg/c>wg/c>wgc.colorCCCCCC>wg00:01:31.049>wgc> unicornswg/c>wg/c>
+   
+prefer the small pony sized the unicorns
 
-00:01:31.799 --> 00:01:36.659 align:start position:19%
-overwg00:01:32.070>wgc> thewg/c>wgc.colorCCCCCC>wg00:01:32.220>wgc> full-sizewg/c>wg00:01:32.790>wgc> unicornswg/c>wg/c>wgc.colorE5E5E5>wg00:01:33.479>wgc> thiswg/c>wg00:01:34.110>wgc> toywg/c>wg00:01:34.320>wgc> haswg/c>wg/c>
+   
+over the full-size unicorns this toy has
 
-00:01:34.530 --> 00:01:38.759 align:start position:19%
-awg00:01:34.680>wgc> greatwg/c>wg00:01:35.070>wgc> shapewg/c>wgc.colorE5E5E5>wg00:01:35.400>wgc> aswg/c>wg00:01:35.850>wgc> you'dwg/c>wg00:01:36.060>wgc> expectwg/c>wg00:01:36.150>wgc> fromwg/c>wg/c>wgc.colorCCCCCC>wg00:01:36.570>wgc> awg/c>wg/c>
+   
+a great shape as you'd expect from a
 
-00:01:36.659 --> 00:01:40.890 align:start position:19%
-unicornwg00:01:37.140>wgc> hornwg/c>wg00:01:37.439>wgc> itwg/c>wg00:01:37.619>wgc> featureswg/c>wg00:01:37.979>wgc> basicallywg/c>wg00:01:38.460>wgc> twowg/c>
+   
+unicorn horn it features basically two
 
-00:01:38.759 --> 00:01:43.710 align:start position:19%
-roundedwg00:01:39.329>wgc> bandswg/c>wgc.colorCCCCCC>wg00:01:39.750>wgc> atwg/c>wg/c>wgc.colorE5E5E5>wg00:01:39.869>wgc> twistwg/c>wg00:01:40.229>wgc> alongwg/c>wg00:01:40.500>wgc> thewg/c>wg00:01:40.619>wgc> outsidewg/c>wg/c>
+   
+rounded bands at twist along the outside
 
-00:01:40.890 --> 00:01:45.450 align:start position:19%
-andwg00:01:41.189>wgc> paperwg/c>wg00:01:41.549>wgc> awg/c>wg00:01:41.610>wgc> bitwg/c>wgc.colorCCCCCC>wg00:01:41.759>wgc> thewg/c>wg00:01:42.509>wgc> quote-unquotewg/c>wg00:01:43.290>wgc> pointwg/c>wg/c>
+   
+and paper a bit the quote-unquote point
 
-00:01:43.710 --> 00:01:48.210 align:start position:19%
-iswg00:01:43.829>wgc> actuallywg/c>wg00:01:44.220>wgc> fairlywg/c>wg00:01:44.369>wgc> roundedwg/c>wg00:01:45.060>wgc> andwg/c>wg00:01:45.180>wgc> notwg/c>wg00:01:45.329>wgc> atwg/c>
+   
+is actually fairly rounded and not at
 
-00:01:45.450 --> 00:01:50.640 align:start position:19%
-allwgc.colorCCCCCC>wg00:01:45.600>wgc> Tuckerwg/c>wg00:01:45.990>wgc> inducingwg/c>wg/c>wgc.colorE5E5E5>wg00:01:46.530>wgc> yourwg/c>wg00:01:47.250>wgc> cornwg/c>wg00:01:47.850>wgc> alsowg/c>wg/c>
+   
+all Tucker inducing your corn also
 
-00:01:48.210 --> 00:01:52.470 align:start position:19%
-featureswg00:01:48.780>wgc> awg/c>wg00:01:48.899>wgc> nicewg/c>wgc.colorE5E5E5>wg00:01:49.200>wgc> layeredwg/c>wg00:01:49.619>wgc> basewg/c>wg/c>wgc.colorCCCCCC>wg00:01:49.920>wgc> you'llwg/c>wg00:01:50.460>wgc> endwg/c>wg/c>
+   
+features a nice layered base you'll end
 
-00:01:50.640 --> 00:01:54.899 align:start position:19%
-upwg00:01:50.700>wgc> losingwg/c>wg00:01:51.119>wgc> thiswg/c>wgc.colorE5E5E5>wg00:01:51.240>wgc> mythicalwg/c>wg00:01:51.689>wgc> creaturewg/c>wg00:01:52.140>wgc> inwg/c>wg00:01:52.350>wgc> yourwg/c>wg/c>
+   
+up losing this mythical creature in your
 
-00:01:52.470 --> 00:01:57.360 align:start position:19%
-wgc.colorCCCCCC>Underwoodwg00:01:52.950>wgc> iwg/c>wg00:01:53.220>wgc> reallywg/c>wg00:01:53.579>wgc> likewg/c>wg00:01:53.850>wgc> thiswg/c>wg00:01:54.030>wgc> toywg/c>wg00:01:54.180>wgc> thewg/c>wg/c>
+   
+Underwood i really like this toy the
 
-00:01:54.899 --> 00:02:00.149 align:start position:19%
-shapewg00:01:55.259>wgc> iswg/c>wg00:01:55.439>wgc> settledwg/c>wgc.colorCCCCCC>wg00:01:55.979>wgc> andwg/c>wg/c>wgc.colorE5E5E5>wg00:01:56.310>wgc> verywg/c>wg00:01:56.610>wgc> gentlewg/c>wg00:01:57.060>wgc> forwg/c>wg00:01:57.240>wgc> mywg/c>wg/c>
+   
+shape is settled and very gentle for my
 
-00:01:57.360 --> 00:02:02.520 align:start position:19%
-wgc.colorCCCCCC>painswg00:01:57.630>wgc> Cooperwg/c>wg/c>wgc.colorE5E5E5>wg00:01:58.140>wgc> whichwg/c>wg00:01:58.890>wgc> wewg/c>wg00:01:59.040>wgc> allwg/c>wg00:01:59.369>wgc> knowwg/c>wg/c>wgc.colorCCCCCC>wg00:01:59.460>wgc> Macwg/c>wg/c>wgc.colorE5E5E5>wg00:01:59.909>wgc> thatwg/c>wg/c>
+   
+pains Cooper which we all know Mac that
 
-00:02:00.149 --> 00:02:05.369 align:start position:19%
-wgc.colorCCCCCC>yeswg/c>wgc.colorE5E5E5>wg00:02:00.659>wgc> yeswg/c>wg00:02:01.020>wgc> wewg/c>wg00:02:01.170>wgc> alwayswg/c>wg00:02:01.590>wgc> talkwg/c>wg00:02:01.829>wgc> aboutwg/c>wg00:02:01.890>wgc> thewg/c>wg/c>wgc.colorCCCCCC>wg00:02:02.130>wgc> pinswg/c>wg/c>
+   
+yes yes we always talk about the pins
 
-00:02:02.520 --> 00:02:07.090 align:start position:19%
-wgc.colorCCCCCC>superwg/c>wgc.colorE5E5E5>wg00:02:02.880>wgc> thewg/c>wg00:02:03.450>wgc> ribswg/c>wg00:02:03.990>wgc> arewg/c>wg00:02:04.229>wgc> smoothwg/c>wg/c>wgc.colorCCCCCC>wg00:02:04.770>wgc> andwg/c>wg00:02:04.979>wgc> helpwg/c>wg/c>
+   
+super the ribs are smooth and help
 
-00:02:05.369 --> 00:02:08.920 align:start position:19%
-wgc.colorCCCCCC>rippleswg/c>wgc.colorE5E5E5>wg00:02:06.030>wgc> itwg/c>wg00:02:06.180>wgc> slideswg/c>wg00:02:06.600>wgc> inwg/c>wg/c>
+   
+ripples it slides in
 
-00:02:07.090 --> 00:02:11.140 align:start position:19%
-wgc.colorCCCCCC>coursewg00:02:07.570>wgc> theywg/c>wg00:02:07.719>wgc> alsowg/c>wg00:02:07.929>wgc> twistwg/c>wg00:02:08.410>wgc> inwg/c>wg/c>wgc.colorE5E5E5>wg00:02:08.560>wgc> awg/c>wg00:02:08.590>wgc> screenwg/c>wg/c>
+   
+course they also twist in a screen
 
-00:02:08.920 --> 00:02:13.870 align:start position:19%
-formationwg00:02:09.250>wgc> sowg/c>wg00:02:09.670>wgc> thewg/c>wgc.colorE5E5E5>wg00:02:09.819>wgc> unicornwg/c>wg/c>wgc.colorCCCCCC>wg00:02:10.629>wgc> boardwg/c>wg/c>wgc.colorE5E5E5>wg00:02:10.899>wgc> canwg/c>wg00:02:11.110>wgc> bewg/c>wg/c>
+   
+formation so the unicorn board can be
 
-00:02:11.140 --> 00:02:16.900 align:start position:19%
-wgc.colorE5E5E5>twistedwg00:02:11.530>wgc> onewg/c>wg00:02:12.010>wgc> waywg/c>wg/c>wgc.colorCCCCCC>wg00:02:12.250>wgc> easierwg/c>wg/c>wgc.colorE5E5E5>wg00:02:13.120>wgc> insertionwg/c>wg00:02:13.390>wgc> andwg/c>wg00:02:13.780>wgc> thewg/c>wg/c>
+   
+twisted one way easier insertion and the
 
-00:02:13.870 --> 00:02:19.840 align:start position:19%
-otherwg00:02:14.170>wgc> forwg/c>wg00:02:14.379>wgc> funwg/c>wg00:02:14.620>wgc> sensationwg/c>wgc.colorCCCCCC>wg00:02:15.400>wgc> mywg/c>wg/c>wgc.colorE5E5E5>wg00:02:16.239>wgc> favoritewg/c>wg00:02:16.629>wgc> partwg/c>wg/c>
+   
+other for fun sensation my favorite part
 
-00:02:16.900 --> 00:02:21.459 align:start position:19%
-wgc.colorE5E5E5>beingwg/c>wgc.colorCCCCCC>wg00:02:17.650>wgc> taggedwg/c>wg00:02:17.980>wgc> bywg/c>wg00:02:18.069>wgc> mywg/c>wg00:02:18.220>wgc> sweetwg/c>wg00:02:18.640>wgc> littlewg/c>wg00:02:18.879>wgc> unicornwg/c>wg/c>
+   
+being tagged by my sweet little unicorn
 
-00:02:19.840 --> 00:02:23.260 align:start position:19%
-nothingwg00:02:20.200>wgc> iswg/c>wg00:02:20.319>wgc> morewg/c>wgc.colorE5E5E5>wg00:02:20.379>wgc> excitingwg/c>wg00:02:21.069>wgc> thanwg/c>wg00:02:21.129>wgc> seeingwg/c>wg/c>
+   
+nothing is more exciting than seeing
 
-00:02:21.459 --> 00:02:25.629 align:start position:19%
-wgc.colorCCCCCC>yourwg00:02:21.550>wgc> comingwg/c>wg/c>wgc.colorE5E5E5>wg00:02:21.970>wgc> atwg/c>wg/c>wgc.colorCCCCCC>wg00:02:22.209>wgc> mewg/c>wg00:02:22.300>wgc> withwg/c>wg00:02:22.540>wgc> thewg/c>wg/c>wgc.colorE5E5E5>wg00:02:22.629>wgc> hornwg/c>wg00:02:22.870>wgc> attachedwg/c>wg/c>
+   
+your coming at me with the horn attached
 
-00:02:23.260 --> 00:02:29.019 align:start position:19%
-towg00:02:23.440>wgc> thewg/c>wg00:02:23.500>wgc> harnesswg/c>wgc.colorCCCCCC>wg00:02:23.920>wgc> Iwg/c>wg/c>wgc.colorE5E5E5>wg00:02:24.250>wgc> bowedwg/c>wg00:02:24.760>wgc> towg/c>wg00:02:24.940>wgc> mywg/c>wg00:02:25.090>wgc> unicornwg/c>wg/c>
+   
+to the harness I bowed to my unicorn
 
-00:02:25.629 --> 00:02:32.260 align:start position:19%
-goddesswgc.colorCCCCCC>wg00:02:26.049>wgc> youwg/c>wg00:02:28.360>wgc> wantwg/c>wg/c>wgc.colorE5E5E5>wg00:02:28.540>wgc> youwg/c>wg00:02:28.629>wgc> tellwg/c>wg00:02:28.840>wgc> uswg/c>wg00:02:28.930>wgc> awg/c>wg00:02:28.959>wgc> littlewg/c>wg/c>
+   
+goddess you want you tell us a little
 
-00:02:29.019 --> 00:02:34.150 align:start position:19%
-wgc.colorE5E5E5>bitwg00:02:29.230>wgc> ofwg/c>wg00:02:29.379>wgc> whatwg/c>wg00:02:29.530>wgc> dowg/c>wg00:02:29.620>wgc> youwg/c>wg00:02:29.680>wgc> thinkwg/c>wg/c>wgc.colorCCCCCC>wg00:02:29.980>wgc> wellwg/c>wg00:02:30.849>wgc> it'swg/c>wg/c>wgc.colorE5E5E5>wg00:02:32.170>wgc> awg/c>wg/c>
+   
+bit of what do you think well it's a
 
-00:02:32.260 --> 00:02:36.220 align:start position:19%
-greatwg00:02:32.650>wgc> littlewg/c>wgc.colorE5E5E5>wg00:02:32.769>wgc> toywg/c>wg00:02:33.040>wgc> forwg/c>wg00:02:33.280>wgc> bothwg/c>wg/c>wgc.colorCCCCCC>wg00:02:33.489>wgc> backendwg/c>wg/c>wgc.colorE5E5E5>wg00:02:34.090>wgc> andwg/c>wg/c>
+   
+great little toy for both backend and
 
-00:02:34.150 --> 00:02:37.780 align:start position:19%
-wgc.colorCCCCCC>friendwg00:02:34.569>wgc> placewg/c>wg00:02:34.900>wgc> forwg/c>wg00:02:35.500>wgc> mewg/c>wg00:02:35.620>wgc> iwg/c>wg00:02:35.769>wgc> foundwg/c>wg00:02:35.950>wgc> itwg/c>wg00:02:36.069>wgc> mostwg/c>wg/c>
+   
+friend place for me i found it most
 
-00:02:36.220 --> 00:02:39.880 align:start position:19%
-wgc.colorE5E5E5>enjoyablewg00:02:36.670>wgc> inwg/c>wg00:02:36.790>wgc> thewg/c>wg00:02:36.849>wgc> backwg/c>wg00:02:37.090>wgc> inwg/c>wg00:02:37.239>wgc> playwg/c>wg/c>
+   
+enjoyable in the back in play
 
-00:02:37.780 --> 00:02:41.590 align:start position:19%
-thatwg00:02:38.049>wgc> iswg/c>wg00:02:38.200>wgc> towg/c>wg00:02:38.319>wgc> saywg/c>wgc.colorE5E5E5>wg00:02:38.379>wgc> it'swg/c>wg00:02:38.769>wgc> stillwg/c>wg00:02:39.069>wgc> enjoyablewg/c>wg00:02:39.400>wgc> inwg/c>wg/c>
+   
+that is to say it's still enjoyable in
 
-00:02:39.880 --> 00:02:45.010 align:start position:19%
-thewgc.colorE5E5E5>wg00:02:39.940>wgc> friendwg/c>wg/c>wgc.colorCCCCCC>wg00:02:40.390>wgc> Iwg/c>wg00:02:40.480>wgc> justwg/c>wg00:02:40.750>wgc> preferredwg/c>wg/c>wgc.colorE5E5E5>wg00:02:41.110>wgc> inwg/c>wg00:02:41.260>wgc> thewg/c>wg00:02:41.349>wgc> backwg/c>wg/c>
+   
+the friend I just preferred in the back
 
-00:02:41.590 --> 00:02:47.319 align:start position:19%
-wgc.colorCCCCCC>aswg00:02:42.730>wgc> anwg/c>wg00:02:42.880>wgc> amazingwg/c>wg00:02:43.510>wgc> experiencewg/c>wg00:02:43.690>wgc> thewg/c>wg00:02:44.560>wgc> bluntwg/c>wg00:02:44.890>wgc> tipwg/c>wg/c>
+   
+as an amazing experience the blunt tip
 
-00:02:45.010 --> 00:02:49.480 align:start position:19%
-madewg00:02:45.340>wgc> forwg/c>wg00:02:45.489>wgc> easywg/c>wg00:02:45.880>wgc> entrywg/c>wg00:02:46.060>wgc> intowg/c>wgc.colorCCCCCC>wg00:02:46.450>wgc> bothwg/c>wg00:02:46.630>wgc> backwg/c>wg00:02:46.930>wgc> andwg/c>wg/c>
+   
+made for easy entry into both back and
 
-00:02:47.319 --> 00:02:51.069 align:start position:19%
-frontwgc.colorE5E5E5>wg00:02:47.440>wgc> andwg/c>wg00:02:47.739>wgc> playwg/c>wg00:02:48.010>wgc> thewg/c>wg00:02:48.459>wgc> colorswg/c>wg/c>wgc.colorCCCCCC>wg00:02:48.880>wgc> thatwg/c>wg00:02:48.940>wgc> storywg/c>wg00:02:49.269>wgc> iswg/c>wg/c>
+   
+front and play the colors that story is
 
-00:02:49.480 --> 00:02:53.709 align:start position:19%
-reallywgc.colorE5E5E5>wg00:02:49.660>wgc> awesomewg/c>wg00:02:50.170>wgc> andwg/c>wg00:02:50.470>wgc> lovewg/c>wg00:02:50.829>wgc> thewg/c>wg00:02:50.920>wgc> metallicwg/c>wg/c>
+   
+really awesome and love the metallic
 
-00:02:51.069 --> 00:02:56.200 align:start position:19%
-wgc.colorE5E5E5>lookwg00:02:51.790>wgc> towg/c>wg/c>wgc.colorCCCCCC>wg00:02:51.970>wgc> anywg/c>wg/c>wgc.colorE5E5E5>wg00:02:52.329>wgc> trainingwg/c>wg00:02:52.959>wgc> awg/c>wg00:02:53.019>wgc> littlewg/c>wg00:02:53.140>wgc> sparklewg/c>wg/c>
+   
+look to any training a little sparkle
 
-00:02:53.709 --> 00:02:59.709 align:start position:19%
-wgc.colorCCCCCC>wishwg00:02:54.700>wgc> therewg/c>wg00:02:54.849>wgc> waswg/c>wg00:02:54.940>wgc> awg/c>wg00:02:54.970>wgc> littlewg/c>wg00:02:55.060>wgc> bitwg/c>wg00:02:55.390>wgc> morewg/c>wg/c>wgc.colorE5E5E5>wg00:02:55.540>wgc> Sparklewg/c>wg/c>
+   
+wish there was a little bit more Sparkle
 
-00:02:56.200 --> 00:03:00.970 align:start position:19%
-butwgc.colorCCCCCC>wg00:02:57.250>wgc> subtletywg/c>wg/c>wgc.colorE5E5E5>wg00:02:58.180>wgc> iswg/c>wg00:02:58.420>wgc> alwayswg/c>wg00:02:58.690>wgc> goodwg/c>wg/c>wgc.colorCCCCCC>wg00:02:58.989>wgc> bitwg/c>wg00:02:59.530>wgc> morewg/c>wg/c>
+   
+but subtlety is always good bit more
 
-00:02:59.709 --> 00:03:02.470 align:start position:19%
-unicornwg00:03:00.250>wgc> magicwg/c>
+   
+unicorn magic
 
-00:03:00.970 --> 00:03:06.250 align:start position:19%
-yeahwgc.colorCCCCCC>wg00:03:01.269>wgc> Iwg/c>wg/c>wgc.colorE5E5E5>wg00:03:01.390>wgc> couldwg/c>wg00:03:01.599>wgc> bewg/c>wg00:03:01.660>wgc> awg/c>wg00:03:01.720>wgc> littlewg/c>wg00:03:02.200>wgc> bitwg/c>wg00:03:02.410>wgc> morewg/c>wg/c>
+   
+yeah I could be a little bit more
 
-00:03:02.470 --> 00:03:09.129 align:start position:19%
-unicornwg00:03:02.950>wgc> magicwg/c>wgc.colorE5E5E5>wg00:03:03.190>wgc> goingwg/c>wg00:03:03.519>wgc> inwg/c>wg00:03:04.150>wgc> anatomywg/c>wg/c>wgc.colorCCCCCC>wg00:03:04.480>wgc> alsowg/c>wg00:03:05.950>wgc> havewg/c>wg/c>
+   
+unicorn magic going in anatomy also have
 
-00:03:06.250 --> 00:03:11.590 align:start position:19%
-wgc.colorCCCCCC>somewg00:03:07.090>wgc> peacheswg/c>wg00:03:07.329>wgc> alsowg/c>wg00:03:07.690>wgc> offerswg/c>wg00:03:08.140>wgc> rainbow-coloredwg/c>wg/c>
+   
+some peaches also offers rainbow-colored
 
-00:03:09.129 --> 00:03:13.930 align:start position:19%
-toyswg00:03:10.450>wgc> whichwg/c>wg00:03:10.629>wgc> iswg/c>wg00:03:10.780>wgc> ofwg/c>wg00:03:10.870>wgc> coursewg/c>wg00:03:10.900>wgc> funnywg/c>wg00:03:11.380>wgc> becausewg/c>
+   
+toys which is of course funny because
 
-00:03:11.590 --> 00:03:16.810 align:start position:19%
-thewg00:03:11.799>wgc> wholewg/c>wg00:03:12.040>wgc> thingwg/c>wg00:03:12.310>wgc> withwg/c>wgc.colorE5E5E5>wg00:03:12.519>wgc> unicornswg/c>wg00:03:13.510>wgc> poopingwg/c>wg/c>
+   
+the whole thing with unicorns pooping
 
-00:03:13.930 --> 00:03:17.560 align:start position:19%
-rainbowswgc.colorE5E5E5>wg00:03:14.440>wgc> unicornswg/c>wg/c>wgc.colorCCCCCC>wg00:03:15.010>wgc> andwg/c>wg00:03:15.489>wgc> rainbowswg/c>wg00:03:16.329>wgc> andwg/c>wg/c>
+   
+rainbows unicorns and rainbows and
 
-00:03:16.810 --> 00:03:21.700 align:start position:19%
+   
 sprinkles
 
-00:03:17.560 --> 00:03:23.709 align:start position:19%
-wgc.colorCCCCCC>yeahwg00:03:19.450>wgc> Iwg/c>wg00:03:19.750>wgc> actuallywg/c>wg/c>wgc.colorE5E5E5>wg00:03:20.079>wgc> quitewg/c>wg00:03:20.500>wgc> enjoyedwg/c>wg00:03:20.950>wgc> itwg/c>wg/c>
+   
+yeah I actually quite enjoyed it
 
-00:03:21.700 --> 00:03:25.930 align:start position:19%
-conclusionswgc.colorCCCCCC>wg00:03:22.329>wgc> withwg/c>wg/c>wgc.colorE5E5E5>wg00:03:22.599>wgc> peacheswg/c>wg00:03:22.930>wgc> toyswg/c>wg00:03:23.319>wgc> arewg/c>wg00:03:23.410>wgc> rightwg/c>wg/c>
+   
+conclusions with peaches toys are right
 
-00:03:23.709 --> 00:03:27.549 align:start position:19%
-upwg00:03:23.889>wgc> ourwg/c>wg00:03:24.010>wgc> alleywg/c>wgc.colorCCCCCC>wg00:03:24.250>wgc> beanswg/c>wg00:03:25.150>wgc> funwg/c>wg/c>wgc.colorE5E5E5>wg00:03:25.420>wgc> colorswg/c>wg00:03:25.810>wgc> andwg/c>wg/c>
+   
+up our alley beans fun colors and
 
-00:03:25.930 --> 00:03:29.590 align:start position:19%
-perhapswg00:03:26.109>wgc> awg/c>wg00:03:26.319>wgc> littlewg/c>wg00:03:26.560>wgc> lesswg/c>wg00:03:26.889>wgc> thanwg/c>wg00:03:27.190>wgc> awg/c>wg00:03:27.220>wgc> hundredwg/c>
+   
+perhaps a little less than a hundred
 
-00:03:27.549 --> 00:03:31.930 align:start position:19%
-percentwg00:03:27.609>wgc> seriouswg/c>wgc.colorCCCCCC>wg00:03:28.329>wgc> thiswg/c>wg/c>wgc.colorE5E5E5>wg00:03:28.720>wgc> iswg/c>wg00:03:28.870>wgc> howwg/c>wg00:03:29.019>wgc> wewg/c>wg00:03:29.170>wgc> likewg/c>wg00:03:29.410>wgc> ourwg/c>wg/c>
+   
+percent serious this is how we like our
 
-00:03:29.590 --> 00:03:33.670 align:start position:19%
-toyswgc.colorCCCCCC>wg00:03:29.980>wgc> thewg/c>wg00:03:30.489>wgc> Unicornwg/c>wg00:03:31.120>wgc> iswg/c>wg/c>wgc.colorE5E5E5>wg00:03:31.180>wgc> awg/c>wg00:03:31.299>wgc> greatwg/c>wg00:03:31.660>wgc> purchasewg/c>wg/c>
+   
+toys the Unicorn is a great purchase
 
-00:03:31.930 --> 00:03:35.349 align:start position:19%
-evenwg00:03:32.230>wgc> ifwg/c>wg00:03:32.410>wgc> youwg/c>wg00:03:32.530>wgc> don'twg/c>wg00:03:32.709>wgc> planwg/c>wg00:03:32.769>wgc> onwg/c>wg00:03:33.069>wgc> usingwg/c>wg00:03:33.310>wgc> itwg/c>wg00:03:33.489>wgc> forwg/c>
+   
+even if you don't plan on using it for
 
-00:03:33.670 --> 00:03:36.700 align:start position:19%
-thewg00:03:33.760>wgc> bedroomwg/c>wgc.colorE5E5E5>wg00:03:33.970>wgc> youwg/c>wg00:03:34.450>wgc> canwg/c>wg00:03:34.510>wgc> alwayswg/c>wg00:03:34.840>wgc> mountwg/c>wg/c>wgc.colorCCCCCC>wg00:03:35.200>wgc> itwg/c>wg00:03:35.290>wgc> inwg/c>wg/c>
+   
+the bedroom you can always mount it in
 
-00:03:35.349 --> 00:03:39.459 align:start position:19%
-wgc.colorE5E5E5>yourwg00:03:35.530>wgc> livingwg/c>wg00:03:35.680>wgc> roomwg/c>wg00:03:35.859>wgc> andwg/c>wg00:03:36.010>wgc> talkwg/c>wg00:03:36.280>wgc> aboutwg/c>wg00:03:36.430>wgc> yourwg/c>wg/c>
+   
+your living room and talk about your
 
-00:03:36.700 --> 00:03:41.829 align:start position:19%
-dayswg00:03:37.090>wgc> iswg/c>wg00:03:37.329>wgc> awg/c>wg00:03:37.419>wgc> unicornwg/c>wg00:03:37.959>wgc> hunterwg/c>wgc.colorE5E5E5>wg00:03:38.260>wgc> andwg/c>wg00:03:39.040>wgc> forwg/c>wg00:03:39.190>wgc> thatwg/c>wg00:03:39.310>wgc> iwg/c>wg/c>
+   
+days is a unicorn hunter and for that i
 
-00:03:39.459 --> 00:03:43.209 align:start position:19%
-dowg00:03:39.669>wgc> recommendwg/c>wgc.colorE5E5E5>wg00:03:39.849>wgc> thewg/c>wg00:03:40.180>wgc> 11-inchwg/c>wg/c>wgc.colorCCCCCC>wg00:03:40.660>wgc> yeahwg/c>wg00:03:41.530>wgc> that'swg/c>wg00:03:41.769>wgc> awg/c>wg/c>
+   
+do recommend the 11-inch yeah that's a
 
-00:03:41.829 --> 00:03:45.010 align:start position:19%
-goodwg00:03:41.950>wgc> pointwg/c>wg00:03:42.069>wgc> youwg/c>wg00:03:42.370>wgc> wantwg/c>wg00:03:42.519>wgc> towg/c>wg00:03:42.609>wgc> gowg/c>wg00:03:42.730>wgc> forwg/c>wg00:03:42.940>wgc> thewg/c>wgc.colorE5E5E5>wg00:03:43.000>wgc> bigwg/c>wg/c>
+   
+good point you want to go for the big
 
-00:03:43.209 --> 00:03:46.959 align:start position:19%
-wgc.colorCCCCCC>usuallywg/c>wgc.colorE5E5E5>wg00:03:43.540>wgc> gowg/c>wg00:03:43.720>wgc> forwg/c>wg/c>wgc.colorCCCCCC>wg00:03:43.780>wgc> thewg/c>wg00:03:43.959>wgc> bigwg/c>wg/c>wgc.colorE5E5E5>wg00:03:44.169>wgc> unicornswg/c>wg00:03:44.859>wgc> ifwg/c>wg/c>
+   
+usually go for the big unicorns if
 
-00:03:45.010 --> 00:03:49.060 align:start position:19%
-you'rewgc.colorE5E5E5>wg00:03:45.130>wgc> goingwg/c>wg00:03:45.220>wgc> towg/c>wg00:03:45.280>wgc> bewg/c>wg00:03:45.400>wgc> takingwg/c>wg00:03:45.760>wgc> themwg/c>wg00:03:45.819>wgc> outwg/c>wg00:03:46.090>wgc> sowg/c>wg/c>
+   
+you're going to be taking them out so
 
-00:03:46.959 --> 00:03:51.099 align:start position:19%
-thatwg00:03:47.200>wgc> justwg/c>wg00:03:47.530>wgc> aboutwg/c>wg00:03:47.590>wgc> doeswg/c>wg00:03:47.859>wgc> itwg/c>wg00:03:48.010>wgc> forwg/c>wg00:03:48.099>wgc> uswg/c>wg00:03:48.280>wgc> todaywg/c>
+   
+that just about does it for us today
 
-00:03:49.060 --> 00:03:53.169 align:start position:19%
-wgc.colorE5E5E5>thiswg00:03:49.299>wgc> iswg/c>wg00:03:49.480>wgc> maxwg/c>wg00:03:49.900>wgc> communitywg/c>wg00:03:50.410>wgc> andwg/c>wg00:03:50.560>wgc> thiswg/c>wg00:03:50.650>wgc> iswg/c>wg/c>wgc.colorCCCCCC>wg00:03:50.859>wgc> Lilywg/c>wg/c>
+   
+this is max community and this is Lily
 
-00:03:51.099 --> 00:03:55.510 align:start position:19%
-wgc.colorE5E5E5>chameleonwg00:03:51.700>wgc> rememberwg/c>wg00:03:52.329>wgc> alwayswg/c>wg00:03:52.810>wgc> bewg/c>wg00:03:53.049>wgc> yourselfwg/c>wg/c>
+   
+chameleon remember always be yourself
 
-00:03:53.169 --> 00:03:57.340 align:start position:19%
-unlesswg00:03:53.980>wgc> youwg/c>wg00:03:54.310>wgc> couldwg/c>wg00:03:54.400>wgc> bewg/c>wgc.colorE5E5E5>wg00:03:54.519>wgc> unicornwg/c>wg/c>wgc.colorCCCCCC>wg00:03:55.150>wgc> thenwg/c>wg/c>
+   
+unless you could be unicorn then
 
-00:03:55.510 --> 00:03:59.910 align:start position:19%
-obviouslywgc.colorE5E5E5>wg00:03:55.720>wgc> youwg/c>wg00:03:56.079>wgc> shouldwg/c>wg/c>wgc.colorCCCCCC>wg00:03:56.169>wgc> wewg/c>wg/c>wgc.colorE5E5E5>wg00:03:56.440>wgc> bewg/c>wg00:03:56.650>wgc> awg/c>wg00:03:56.680>wgc> unicornwg/c>wg/c>
+   
+obviously you should we be a unicorn
 
-00:03:57.340 --> 00:03:59.910 align:start position:19%
-wellwg00:03:57.519>wgc> duhwg/c>
+   
+well duh
 
-00:04:00.910 --> 00:04:07.870 align:start position:19%
-wgc.colorE5E5E5>thankswg00:04:04.000>wgc> forwg/c>wg00:04:04.150>wgc> listeningwg/c>wg00:04:04.270>wgc> towg/c>wg00:04:04.720>wgc> thiswg/c>wg/c>wgc.colorCCCCCC>wg00:04:04.750>wgc> karmawg/c>wg/c>
+   
+thanks for listening to this karma
 
-00:04:05.230 --> 00:04:09.490 align:start position:19%
-wgc.colorE5E5E5>chameleonwg00:04:05.680>wgc> audiowg/c>wg00:04:06.070>wgc> reviewwg/c>wg00:04:06.280>wgc> pictureswg/c>wg/c>wgc.colorCCCCCC>wg00:04:07.180>wgc> textwg/c>wg00:04:07.660>wgc> andwg/c>wg/c>
+   
+chameleon audio review pictures text and
 
-00:04:07.870 --> 00:04:11.920 align:start position:19%
-linkswg00:04:08.200>wgc> towg/c>wg00:04:08.230>wgc> thiswg/c>wgc.colorE5E5E5>wg00:04:08.410>wgc> reviewwg/c>wg00:04:08.650>wgc> canwg/c>wg00:04:09.010>wgc> bewg/c>wg00:04:09.070>wgc> foundwg/c>wg/c>wgc.colorCCCCCC>wg00:04:09.280>wgc> thatwg/c>wg/c>
+   
+links to this review can be found that
 
-00:04:09.490 --> 00:04:13.780 align:start position:19%
-wgc.colorE5E5E5>carnalwg00:04:09.880>wgc> communitywg/c>wg/c>wgc.colorCCCCCC>wg00:04:10.420>wgc> dot-comwg/c>wg/c>wgc.colorE5E5E5>wg00:04:10.990>wgc> youwg/c>wg00:04:11.590>wgc> enjoywg/c>wg/c>
+   
+carnal community dot-com you enjoy
 
-00:04:11.920 --> 00:04:16.180 align:start position:19%
-gettingwg00:04:12.130>wgc> yourwg/c>wg00:04:12.370>wgc> sexwg/c>wg00:04:12.700>wgc> talkwg/c>wg00:04:12.940>wgc> downwg/c>wg00:04:13.210>wgc> throughwg/c>wg00:04:13.510>wgc> audiowg/c>
+   
+getting your sex talk down through audio
 
-00:04:13.780 --> 00:04:20.500 align:start position:19%
-formatwg00:04:14.350>wgc> youwg/c>wg00:04:14.470>wgc> maywg/c>wg00:04:14.590>wgc> alsowg/c>wg00:04:14.860>wgc> enjoywg/c>wg00:04:15.160>wgc> ourwg/c>wg00:04:15.460>wgc> podcastwg/c>
+   
+format you may also enjoy our podcast
 
-00:04:16.180 --> 00:04:23.560 align:start position:19%
-wgc.colorCCCCCC>thewg00:04:16.420>wgc> trisexualwg/c>wg00:04:17.019>wgc> trisexualwg/c>wg/c>wgc.colorE5E5E5>wg00:04:18.580>wgc> media.comwg/c>wg/c>wgc.colorCCCCCC>wg00:04:19.810>wgc> youwg/c>wg/c>
+   
+the trisexual trisexual media.com you
 
-00:04:20.500 --> 00:04:26.940 align:start position:19%
-canwgc.colorE5E5E5>wg00:04:20.650>wgc> followwg/c>wg00:04:20.920>wgc> uswg/c>wg00:04:21.070>wgc> onwg/c>wg/c>wgc.colorCCCCCC>wg00:04:21.250>wgc> twitterwg/c>wg00:04:21.640>wgc> i'mwg/c>wg00:04:22.390>wgc> atwg/c>wg00:04:22.960>wgc> Randywg/c>wg/c>
+   
+can follow us on twitter i'm at Randy
 
-00:04:23.560 --> 00:04:31.730 align:start position:19%
-wgc.colorE5E5E5>chameleonwg/c>wgc.colorCCCCCC>wg00:04:24.160>wgc> lilywg/c>wg/c>wgc.colorE5E5E5>wg00:04:24.940>wgc> iswg/c>wg/c>wgc.colorCCCCCC>wg00:04:25.270>wgc> atwg/c>wg/c>
+   
+chameleon lily is at
 
-00:04:26.940 --> 00:04:31.730 align:start position:19%
+   
 [Music]
 
